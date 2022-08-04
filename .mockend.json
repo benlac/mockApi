@@ -3,5 +3,28 @@
     "case": {
       "regexp": "[0-4]{1}"
     }
+  },
+  "Follower": {
+    "month": {
+      "string": ["2022-01"]
+    },
+    "organic": {
+      "int": {
+        "min": 10,
+        "max": 10000
+      }
+    },
+    "paid": {
+      "int": {
+        "min": 10,
+        "max": 1000
+      }
+    },
+    "total": {
+      "int": {
+        "min": 1000,
+        "max": 100000
+      }
+    }
   }
 }
