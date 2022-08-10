@@ -1,32 +1,175 @@
 {
+  "case": [{ "data": 2 }],
   "payments": [
     {
-      "month": "2022-04",
+      "month": "2021-11",
+      "total": -14000
+    },
+    {
+      "month": "2021-12",
       "total": -16000
     },
     {
-      "month": "2022-05",
-      "total": -10000
-    },
-    {
-      "month": "2022-06",
-      "total": -8000
-    },
-    {
-      "month": "2022-08",
-      "total": 15000
-    },
-    {
-      "month": "2022-09",
+      "month": "2022-01",
       "total": 16000
     },
     {
+      "month": "2022-02",
+      "total": 13000
+    },
+    {
+      "month": "2022-03",
+      "total": 12500
+    },
+    {
+      "month": "2022-04",
+      "total": -10000
+    },
+    {
+      "month": "2022-05",
+      "total": -15000
+    },
+    {
+      "month": "2022-06",
+      "total": -16000
+    },
+    {
+      "month": "2022-07",
+      "total": 16000
+    },
+    {
+      "month": "2022-08",
+      "total": 9000
+    },
+    {
+      "month": "2022-09",
+      "total": 12500
+    },
+    {
       "month": "2022-10",
-      "total": 10000
+      "total": -5000
     },
     {
       "month": "2022-11",
-      "total": 10000
+      "total": -15000
+    },
+    {
+      "month": "2022-12",
+      "total": -10000
+    }
+  ],
+  "payment": [
+    {
+      "date": "2021-11",
+      "monthlyNet": 61985,
+      "acquisitionInvestment": 66324,
+      "grossRevenue": 99940,
+      "revenueShare": 93101,
+      "total": 42297
+    },
+    {
+      "date": "2021-12",
+      "monthlyNet": 55456,
+      "acquisitionInvestment": 84670,
+      "grossRevenue": 48745,
+      "revenueShare": 71427,
+      "total": 41182
+    },
+    {
+      "date": "2022-01",
+      "monthlyNet": 88106,
+      "acquisitionInvestment": 92005,
+      "grossRevenue": 30219,
+      "revenueShare": 14568,
+      "total": 30030
+    },
+    {
+      "date": "2022-02",
+      "monthlyNet": 93789,
+      "acquisitionInvestment": 93923,
+      "grossRevenue": 10320,
+      "revenueShare": 80876,
+      "total": 3910
+    },
+    {
+      "date": "2022-03",
+      "monthlyNet": 85669,
+      "acquisitionInvestment": 98622,
+      "grossRevenue": 75002,
+      "revenueShare": 98200,
+      "total": 60643
+    },
+    {
+      "date": "2022-04",
+      "monthlyNet": 79388,
+      "acquisitionInvestment": 72757,
+      "grossRevenue": 1558,
+      "revenueShare": 73655,
+      "total": 44518
+    },
+    {
+      "date": "2022-05",
+      "monthlyNet": 49005,
+      "acquisitionInvestment": 45949,
+      "grossRevenue": 25183,
+      "revenueShare": 16479,
+      "total": 34278
+    },
+    {
+      "date": "2022-06",
+      "monthlyNet": 98811,
+      "acquisitionInvestment": 98103,
+      "grossRevenue": 50845,
+      "revenueShare": 71492,
+      "total": 54981
+    },
+    {
+      "date": "2022-07",
+      "monthlyNet": 65872,
+      "acquisitionInvestment": 64141,
+      "grossRevenue": 1223,
+      "revenueShare": 3254,
+      "total": 22972
+    },
+    {
+      "date": "2022-08",
+      "monthlyNet": 3119,
+      "acquisitionInvestment": 36014,
+      "grossRevenue": 79997,
+      "revenueShare": 91391,
+      "total": 29057
+    },
+    {
+      "date": "2022-09",
+      "monthlyNet": 38281,
+      "acquisitionInvestment": 9722,
+      "grossRevenue": 20149,
+      "revenueShare": 36234,
+      "total": 61422
+    },
+    {
+      "date": "2022-10",
+      "monthlyNet": 16630,
+      "acquisitionInvestment": 31555,
+      "grossRevenue": 60397,
+      "revenueShare": 36386,
+      "total": 53830
+    },
+    {
+      "date": "2022-11",
+      "monthlyNet": 68231,
+      "acquisitionInvestment": 26788,
+      "grossRevenue": 23845,
+      "revenueShare": 92102,
+      "total": 16068
+    },
+    {
+      "date": "2022-12",
+      "monthlyNet": 38915,
+      "acquisitionInvestment": 19698,
+      "grossRevenue": 82924,
+      "revenueShare": 53031,
+      "total": 36921
     }
   ],
   "followers": [
@@ -147,6 +290,1169 @@
     {
       "month": "2022-08",
       "total": 18000,
+      "paid": 4000,
+      "organic": 12000
+    }
+  ],
+  "views": [
+    {
+      "month": "2021-12",
+      "total": 5
+    },
+    {
+      "month": "2021-11",
+      "total": 20
+    },
+    {
+      "month": "2022-01",
+      "total": 20
+    },
+    {
+      "month": "2022-02",
+      "total": 200
+    },
+    {
+      "month": "2022-03",
+      "total": 5000
+    },
+    {
+      "month": "2022-04",
+      "total": 10000
+    },
+    {
+      "month": "2022-05",
+      "total": 12000
+    },
+    {
+      "month": "2022-06",
+      "total": 16000
+    },
+    {
+      "month": "2022-07",
+      "total": 18000
+    },
+    {
+      "month": "2022-08",
+      "total": 20000
+    },
+    {
+      "month": "2022-09",
+      "total": 16000
+    },
+    {
+      "month": "2022-10",
+      "total": 25000
+    },
+    {
+      "month": "2022-11",
+      "total": 30000
+    },
+    {
+      "month": "2022-12",
+      "total": 40000
+    }
+  ],
+  "view": [
+    {
+      "date": "2021-11",
+      "videos": [
+        {
+          "id": 0,
+          "name": "Voluptatem quasi voluptatem quas voluptatibus voluptatibus.",
+          "published": "2021-01-4",
+          "thumbnail": "https://loremflickr.com/640/480/city?85426",
+          "viewNumber": 60153,
+          "revenue": 17618
+        },
+        {
+          "id": 1,
+          "name": "Excepturi veniam beatae excepturi est tempore.",
+          "published": "2021-01-4",
+          "thumbnail": "https://loremflickr.com/640/480/city?22465",
+          "viewNumber": 50336,
+          "revenue": 51501
+        },
+        {
+          "id": 2,
+          "name": "Fuga aperiam quia voluptate recusandae ex.",
+          "published": "2021-01-22",
+          "thumbnail": "https://loremflickr.com/640/480/city?23314",
+          "viewNumber": 87043,
+          "revenue": 25713
+        },
+        {
+          "id": 3,
+          "name": "Autem ab deleniti ut nostrum autem.",
+          "published": "2021-01-10",
+          "thumbnail": "https://loremflickr.com/640/480/city?62372",
+          "viewNumber": 95280,
+          "revenue": 83925
+        },
+        {
+          "id": 4,
+          "name": "Enim aut beatae consequatur impedit soluta.",
+          "published": "2021-01-19",
+          "thumbnail": "https://loremflickr.com/640/480/city?74094",
+          "viewNumber": 17825,
+          "revenue": 53095
+        }
+      ]
+    },
+    {
+      "date": "2021-12",
+      "videos": [
+        {
+          "id": 0,
+          "name": "Itaque similique eos non enim dolor.",
+          "published": "2021-02-21",
+          "thumbnail": "https://loremflickr.com/640/480/city?77848",
+          "viewNumber": 27597,
+          "revenue": 87188
+        },
+        {
+          "id": 1,
+          "name": "Dignissimos qui fuga tempore saepe labore.",
+          "published": "2021-02-16",
+          "thumbnail": "https://loremflickr.com/640/480/city?54694",
+          "viewNumber": 64042,
+          "revenue": 72356
+        },
+        {
+          "id": 2,
+          "name": "Voluptatem corporis voluptatum quibusdam et voluptatem.",
+          "published": "2021-02-24",
+          "thumbnail": "https://loremflickr.com/640/480/city?76191",
+          "viewNumber": 42771,
+          "revenue": 62017
+        },
+        {
+          "id": 3,
+          "name": "Provident a tempora non et quae.",
+          "published": "2021-02-12",
+          "thumbnail": "https://loremflickr.com/640/480/city?23104",
+          "viewNumber": 97692,
+          "revenue": 12862
+        },
+        {
+          "id": 4,
+          "name": "Vero error consequatur incidunt odit repellat.",
+          "published": "2021-02-20",
+          "thumbnail": "https://loremflickr.com/640/480/city?26838",
+          "viewNumber": 64053,
+          "revenue": 72961
+        }
+      ]
+    },
+    {
+      "date": "2022-01",
+      "videos": [
+        {
+          "id": 0,
+          "name": "Nihil nisi voluptate excepturi culpa error.",
+          "published": "2022-01-10",
+          "thumbnail": "https://loremflickr.com/640/480/city?68323",
+          "viewNumber": 46477,
+          "revenue": 94168
+        },
+        {
+          "id": 1,
+          "name": "Beatae optio voluptatem repellat fuga cupiditate.",
+          "published": "2022-01-2",
+          "thumbnail": "https://loremflickr.com/640/480/city?40602",
+          "viewNumber": 94331,
+          "revenue": 64563
+        },
+        {
+          "id": 2,
+          "name": "Dignissimos modi perspiciatis voluptate illum sed.",
+          "published": "2022-01-1",
+          "thumbnail": "https://loremflickr.com/640/480/city?63407",
+          "viewNumber": 35117,
+          "revenue": 1061
+        },
+        {
+          "id": 3,
+          "name": "Et aspernatur hic et hic sit.",
+          "published": "2022-01-7",
+          "thumbnail": "https://loremflickr.com/640/480/city?68268",
+          "viewNumber": 50089,
+          "revenue": 71107
+        },
+        {
+          "id": 4,
+          "name": "Debitis voluptas totam excepturi quae dolor.",
+          "published": "2022-01-29",
+          "thumbnail": "https://loremflickr.com/640/480/city?58102",
+          "viewNumber": 24505,
+          "revenue": 70990
+        }
+      ]
+    },
+    {
+      "date": "2022-02",
+      "videos": [
+        {
+          "id": 0,
+          "name": "Consectetur quasi sed quaerat temporibus deleniti.",
+          "published": "2022-02-11",
+          "thumbnail": "https://loremflickr.com/640/480/city?2985",
+          "viewNumber": 20723,
+          "revenue": 75319
+        },
+        {
+          "id": 1,
+          "name": "Nostrum eveniet sequi quia maiores vitae.",
+          "published": "2022-02-9",
+          "thumbnail": "https://loremflickr.com/640/480/city?2023",
+          "viewNumber": 89847,
+          "revenue": 59040
+        },
+        {
+          "id": 2,
+          "name": "Architecto distinctio fugit quis quasi officia.",
+          "published": "2022-02-14",
+          "thumbnail": "https://loremflickr.com/640/480/city?55078",
+          "viewNumber": 40499,
+          "revenue": 38214
+        },
+        {
+          "id": 3,
+          "name": "Officiis sunt quas amet sunt doloremque.",
+          "published": "2022-02-16",
+          "thumbnail": "https://loremflickr.com/640/480/city?43081",
+          "viewNumber": 19757,
+          "revenue": 19638
+        },
+        {
+          "id": 4,
+          "name": "Est non ut et consequuntur minus.",
+          "published": "2022-02-24",
+          "thumbnail": "https://loremflickr.com/640/480/city?20081",
+          "viewNumber": 30042,
+          "revenue": 11624
+        }
+      ]
+    },
+    {
+      "date": "2022-03",
+      "videos": [
+        {
+          "id": 0,
+          "name": "Expedita qui aliquid molestiae at autem.",
+          "published": "2022-03-6",
+          "thumbnail": "https://loremflickr.com/640/480/city?77545",
+          "viewNumber": 68231,
+          "revenue": 99640
+        },
+        {
+          "id": 1,
+          "name": "Rem delectus voluptatum vel vitae beatae.",
+          "published": "2022-03-24",
+          "thumbnail": "https://loremflickr.com/640/480/city?3972",
+          "viewNumber": 26728,
+          "revenue": 83385
+        },
+        {
+          "id": 2,
+          "name": "Repellat quasi non dolorem et eum.",
+          "published": "2022-03-5",
+          "thumbnail": "https://loremflickr.com/640/480/city?41738",
+          "viewNumber": 74967,
+          "revenue": 45160
+        },
+        {
+          "id": 3,
+          "name": "Dolor et dignissimos fugiat corporis in.",
+          "published": "2022-03-14",
+          "thumbnail": "https://loremflickr.com/640/480/city?52439",
+          "viewNumber": 55273,
+          "revenue": 98513
+        },
+        {
+          "id": 4,
+          "name": "Porro dolorem ducimus cupiditate ipsa neque.",
+          "published": "2022-03-2",
+          "thumbnail": "https://loremflickr.com/640/480/city?67940",
+          "viewNumber": 44736,
+          "revenue": 67844
+        }
+      ]
+    },
+    {
+      "date": "2022-04",
+      "videos": [
+        {
+          "id": 0,
+          "name": "Minus ad sit et et praesentium.",
+          "published": "2022-04-1",
+          "thumbnail": "https://loremflickr.com/640/480/city?25971",
+          "viewNumber": 95942,
+          "revenue": 9083
+        },
+        {
+          "id": 1,
+          "name": "Repellat quaerat et consectetur numquam aspernatur.",
+          "published": "2022-04-16",
+          "thumbnail": "https://loremflickr.com/640/480/city?5690",
+          "viewNumber": 18523,
+          "revenue": 27608
+        },
+        {
+          "id": 2,
+          "name": "Beatae et quod maxime dolores non.",
+          "published": "2022-04-4",
+          "thumbnail": "https://loremflickr.com/640/480/city?3126",
+          "viewNumber": 18149,
+          "revenue": 18237
+        },
+        {
+          "id": 3,
+          "name": "Esse doloribus itaque qui voluptatem quia.",
+          "published": "2022-04-30",
+          "thumbnail": "https://loremflickr.com/640/480/city?39106",
+          "viewNumber": 63808,
+          "revenue": 90834
+        },
+        {
+          "id": 4,
+          "name": "Error voluptatibus rerum aut labore illo.",
+          "published": "2022-04-3",
+          "thumbnail": "https://loremflickr.com/640/480/city?66946",
+          "viewNumber": 74353,
+          "revenue": 72670
+        }
+      ]
+    },
+    {
+      "date": "2022-05",
+      "videos": [
+        {
+          "id": 0,
+          "name": "Soluta culpa asperiores voluptate adipisci quis.",
+          "published": "2022-05-25",
+          "thumbnail": "https://loremflickr.com/640/480/city?4066",
+          "viewNumber": 2054,
+          "revenue": 36031
+        },
+        {
+          "id": 1,
+          "name": "Eos voluptate aliquid officiis voluptatum officia.",
+          "published": "2022-05-23",
+          "thumbnail": "https://loremflickr.com/640/480/city?33995",
+          "viewNumber": 59685,
+          "revenue": 59582
+        },
+        {
+          "id": 2,
+          "name": "Totam et consequatur aut temporibus ipsum.",
+          "published": "2022-05-15",
+          "thumbnail": "https://loremflickr.com/640/480/city?4165",
+          "viewNumber": 79702,
+          "revenue": 55965
+        },
+        {
+          "id": 3,
+          "name": "Sit consequuntur in sint quia est.",
+          "published": "2022-05-24",
+          "thumbnail": "https://loremflickr.com/640/480/city?76436",
+          "viewNumber": 58671,
+          "revenue": 90194
+        },
+        {
+          "id": 4,
+          "name": "Rerum officiis dolores sit neque vitae.",
+          "published": "2022-05-14",
+          "thumbnail": "https://loremflickr.com/640/480/city?48279",
+          "viewNumber": 67069,
+          "revenue": 32672
+        }
+      ]
+    },
+    {
+      "date": "2022-06",
+      "videos": [
+        {
+          "id": 0,
+          "name": "Sunt quos quas quis vero corrupti.",
+          "published": "2022-06-26",
+          "thumbnail": "https://loremflickr.com/640/480/city?76607",
+          "viewNumber": 47560,
+          "revenue": 1818
+        },
+        {
+          "id": 1,
+          "name": "Quis voluptatem odit nisi itaque porro.",
+          "published": "2022-06-15",
+          "thumbnail": "https://loremflickr.com/640/480/city?82734",
+          "viewNumber": 68187,
+          "revenue": 61582
+        },
+        {
+          "id": 2,
+          "name": "Autem possimus corporis reprehenderit alias sed.",
+          "published": "2022-06-1",
+          "thumbnail": "https://loremflickr.com/640/480/city?21904",
+          "viewNumber": 69981,
+          "revenue": 18315
+        },
+        {
+          "id": 3,
+          "name": "At rerum qui qui libero maxime.",
+          "published": "2022-06-26",
+          "thumbnail": "https://loremflickr.com/640/480/city?79181",
+          "viewNumber": 1668,
+          "revenue": 95995
+        },
+        {
+          "id": 4,
+          "name": "Omnis deserunt soluta enim neque nemo.",
+          "published": "2022-06-9",
+          "thumbnail": "https://loremflickr.com/640/480/city?48265",
+          "viewNumber": 82558,
+          "revenue": 72466
+        }
+      ]
+    },
+    {
+      "date": "2022-07",
+      "videos": [
+        {
+          "id": 0,
+          "name": "Ad nemo expedita sit molestiae quod.",
+          "published": "2022-07-12",
+          "thumbnail": "https://loremflickr.com/640/480/city?70532",
+          "viewNumber": 39708,
+          "revenue": 75186
+        },
+        {
+          "id": 1,
+          "name": "Praesentium qui numquam et sed earum.",
+          "published": "2022-07-5",
+          "thumbnail": "https://loremflickr.com/640/480/city?50000",
+          "viewNumber": 97896,
+          "revenue": 70982
+        },
+        {
+          "id": 2,
+          "name": "Quibusdam porro quia aperiam assumenda fuga.",
+          "published": "2022-07-20",
+          "thumbnail": "https://loremflickr.com/640/480/city?80127",
+          "viewNumber": 50154,
+          "revenue": 76209
+        },
+        {
+          "id": 3,
+          "name": "Omnis est at voluptate cumque voluptatem.",
+          "published": "2022-07-16",
+          "thumbnail": "https://loremflickr.com/640/480/city?33639",
+          "viewNumber": 25937,
+          "revenue": 98922
+        },
+        {
+          "id": 4,
+          "name": "Aliquid alias aliquid dicta est beatae.",
+          "published": "2022-07-20",
+          "thumbnail": "https://loremflickr.com/640/480/city?98268",
+          "viewNumber": 45235,
+          "revenue": 80520
+        }
+      ]
+    },
+    {
+      "date": "2022-08",
+      "videos": [
+        {
+          "id": 0,
+          "name": "Id reiciendis at eligendi quam inventore.",
+          "published": "2022-08-17",
+          "thumbnail": "https://loremflickr.com/640/480/city?85726",
+          "viewNumber": 88139,
+          "revenue": 4326
+        },
+        {
+          "id": 1,
+          "name": "Hic ducimus porro sed est iusto.",
+          "published": "2022-08-28",
+          "thumbnail": "https://loremflickr.com/640/480/city?70562",
+          "viewNumber": 71981,
+          "revenue": 85396
+        },
+        {
+          "id": 2,
+          "name": "Voluptatem perferendis debitis laborum quae fuga.",
+          "published": "2022-08-1",
+          "thumbnail": "https://loremflickr.com/640/480/city?26339",
+          "viewNumber": 75340,
+          "revenue": 74418
+        },
+        {
+          "id": 3,
+          "name": "Pariatur est aliquam ratione dicta temporibus.",
+          "published": "2022-08-27",
+          "thumbnail": "https://loremflickr.com/640/480/city?75150",
+          "viewNumber": 79856,
+          "revenue": 59436
+        },
+        {
+          "id": 4,
+          "name": "Repellendus fugiat eius animi unde aut.",
+          "published": "2022-08-7",
+          "thumbnail": "https://loremflickr.com/640/480/city?68290",
+          "viewNumber": 2273,
+          "revenue": 92536
+        }
+      ]
+    },
+    {
+      "date": "2022-09",
+      "videos": [
+        {
+          "id": 0,
+          "name": "Sunt et doloribus vitae tempora sed.",
+          "published": "2022-09-19",
+          "thumbnail": "https://loremflickr.com/640/480/city?77980",
+          "viewNumber": 73894,
+          "revenue": 30772
+        },
+        {
+          "id": 1,
+          "name": "Est ipsum beatae enim praesentium qui.",
+          "published": "2022-09-11",
+          "thumbnail": "https://loremflickr.com/640/480/city?46061",
+          "viewNumber": 20680,
+          "revenue": 68149
+        },
+        {
+          "id": 2,
+          "name": "Dolor asperiores aperiam vel vel occaecati.",
+          "published": "2022-09-28",
+          "thumbnail": "https://loremflickr.com/640/480/city?85420",
+          "viewNumber": 42394,
+          "revenue": 66820
+        },
+        {
+          "id": 3,
+          "name": "Et praesentium quam dolores reiciendis sunt.",
+          "published": "2022-09-24",
+          "thumbnail": "https://loremflickr.com/640/480/city?98575",
+          "viewNumber": 77417,
+          "revenue": 61921
+        },
+        {
+          "id": 4,
+          "name": "Doloribus impedit eum voluptatum delectus molestias.",
+          "published": "2022-09-10",
+          "thumbnail": "https://loremflickr.com/640/480/city?84019",
+          "viewNumber": 74313,
+          "revenue": 46617
+        }
+      ]
+    },
+    {
+      "date": "2022-10",
+      "videos": [
+        {
+          "id": 0,
+          "name": "Omnis et voluptatum qui natus rem.",
+          "published": "2022-10-6",
+          "thumbnail": "https://loremflickr.com/640/480/city?97569",
+          "viewNumber": 7717,
+          "revenue": 33786
+        },
+        {
+          "id": 1,
+          "name": "Cupiditate earum fuga voluptate et porro.",
+          "published": "2022-10-4",
+          "thumbnail": "https://loremflickr.com/640/480/city?78301",
+          "viewNumber": 15802,
+          "revenue": 81134
+        },
+        {
+          "id": 2,
+          "name": "Quia quod vitae omnis nesciunt in.",
+          "published": "2022-10-20",
+          "thumbnail": "https://loremflickr.com/640/480/city?25395",
+          "viewNumber": 73612,
+          "revenue": 43617
+        },
+        {
+          "id": 3,
+          "name": "Qui facilis tempore voluptatem expedita maxime.",
+          "published": "2022-10-21",
+          "thumbnail": "https://loremflickr.com/640/480/city?60124",
+          "viewNumber": 95664,
+          "revenue": 72148
+        },
+        {
+          "id": 4,
+          "name": "Neque fuga cupiditate omnis odit omnis.",
+          "published": "2022-10-21",
+          "thumbnail": "https://loremflickr.com/640/480/city?2359",
+          "viewNumber": 16132,
+          "revenue": 57443
+        }
+      ]
+    },
+    {
+      "date": "2022-11",
+      "videos": [
+        {
+          "id": 0,
+          "name": "Ea consequatur dolor itaque dicta excepturi.",
+          "published": "2022-11-26",
+          "thumbnail": "https://loremflickr.com/640/480/city?893",
+          "viewNumber": 74635,
+          "revenue": 85811
+        },
+        {
+          "id": 1,
+          "name": "Laudantium rerum ea quis dolor dolore.",
+          "published": "2022-11-26",
+          "thumbnail": "https://loremflickr.com/640/480/city?9004",
+          "viewNumber": 56331,
+          "revenue": 71077
+        },
+        {
+          "id": 2,
+          "name": "Sed et sapiente quia blanditiis aliquid.",
+          "published": "2022-11-16",
+          "thumbnail": "https://loremflickr.com/640/480/city?10387",
+          "viewNumber": 51915,
+          "revenue": 68093
+        },
+        {
+          "id": 3,
+          "name": "Dignissimos reprehenderit labore sit sit debitis.",
+          "published": "2022-11-14",
+          "thumbnail": "https://loremflickr.com/640/480/city?65180",
+          "viewNumber": 32163,
+          "revenue": 39287
+        },
+        {
+          "id": 4,
+          "name": "Officiis fuga adipisci est est rerum.",
+          "published": "2022-11-23",
+          "thumbnail": "https://loremflickr.com/640/480/city?99907",
+          "viewNumber": 69741,
+          "revenue": 42791
+        }
+      ]
+    },
+    {
+      "date": "2022-12",
+      "videos": [
+        {
+          "id": 0,
+          "name": "Natus eum perspiciatis explicabo consectetur sint.",
+          "published": "2022-12-26",
+          "thumbnail": "https://loremflickr.com/640/480/city?73009",
+          "viewNumber": 32422,
+          "revenue": 52758
+        },
+        {
+          "id": 1,
+          "name": "Consequuntur aut voluptates voluptas ipsam suscipit.",
+          "published": "2022-12-17",
+          "thumbnail": "https://loremflickr.com/640/480/city?4431",
+          "viewNumber": 13814,
+          "revenue": 35178
+        },
+        {
+          "id": 2,
+          "name": "Accusamus ut est error est maiores.",
+          "published": "2022-12-30",
+          "thumbnail": "https://loremflickr.com/640/480/city?92668",
+          "viewNumber": 22479,
+          "revenue": 54520
+        },
+        {
+          "id": 3,
+          "name": "Accusamus harum corrupti blanditiis velit nulla.",
+          "published": "2022-12-28",
+          "thumbnail": "https://loremflickr.com/640/480/city?69306",
+          "viewNumber": 32071,
+          "revenue": 86935
+        },
+        {
+          "id": 4,
+          "name": "Dolor et vitae beatae molestias facere.",
+          "published": "2022-12-24",
+          "thumbnail": "https://loremflickr.com/640/480/city?53459",
+          "viewNumber": 49833,
+          "revenue": 23877
+        }
+      ]
+    }
+  ],
+  "investments": [
+    {
+      "month": "2021-11",
+      "total": 20
+    },
+    {
+      "month": "2021-12",
+      "total": 40
+    },
+    {
+      "month": "2022-01",
+      "total": 20
+    },
+    {
+      "month": "2022-02",
+      "total": 200
+    },
+    {
+      "month": "2022-03",
+      "total": 5000
+    },
+    {
+      "month": "2022-04",
+      "total": 10000
+    },
+    {
+      "month": "2022-05",
+      "total": 14000
+    },
+    {
+      "month": "2022-06",
+      "total": 15000
+    },
+    {
+      "month": "2022-07",
+      "total": 20
+    },
+    {
+      "month": "2022-08",
+      "total": 200
+    },
+    {
+      "month": "2022-09",
+      "total": 5000
+    },
+    {
+      "month": "2022-10",
+      "total": 10000
+    },
+    {
+      "month": "2022-11",
+      "total": 12000
+    },
+    {
+      "month": "2022-12",
+      "total": 16000
+    }
+  ],
+  "cost": [
+    {
+      "date": "2021-11",
+      "acquisitionCampaigns": 10538,
+      "abTestingCost": 51921,
+      "abTestingNumber": 10,
+      "paidFollowersGained": 10697,
+      "impressionsGenerated": 54691,
+      "total": 24356
+    },
+    {
+      "date": "2021-12",
+      "acquisitionCampaigns": 83802,
+      "abTestingCost": 6822,
+      "abTestingNumber": 9,
+      "paidFollowersGained": 97012,
+      "impressionsGenerated": 81636,
+      "total": 19201
+    },
+    {
+      "date": "2022-01",
+      "acquisitionCampaigns": 82865,
+      "abTestingCost": 34806,
+      "abTestingNumber": 1,
+      "paidFollowersGained": 11044,
+      "impressionsGenerated": 26274,
+      "total": 38226
+    },
+    {
+      "date": "2022-02",
+      "acquisitionCampaigns": 25569,
+      "abTestingCost": 22985,
+      "abTestingNumber": 4,
+      "paidFollowersGained": 12827,
+      "impressionsGenerated": 32089,
+      "total": 34058
+    },
+    {
+      "date": "2022-03",
+      "acquisitionCampaigns": 44000,
+      "abTestingCost": 41372,
+      "abTestingNumber": 2,
+      "paidFollowersGained": 15459,
+      "impressionsGenerated": 97368,
+      "total": 87547
+    },
+    {
+      "date": "2022-04",
+      "acquisitionCampaigns": 71196,
+      "abTestingCost": 69730,
+      "abTestingNumber": 6,
+      "paidFollowersGained": 23432,
+      "impressionsGenerated": 50730,
+      "total": 30345
+    },
+    {
+      "date": "2022-05",
+      "acquisitionCampaigns": 89609,
+      "abTestingCost": 57982,
+      "abTestingNumber": 9,
+      "paidFollowersGained": 94652,
+      "impressionsGenerated": 28177,
+      "total": 4014
+    },
+    {
+      "date": "2022-06",
+      "acquisitionCampaigns": 89488,
+      "abTestingCost": 10910,
+      "abTestingNumber": 2,
+      "paidFollowersGained": 30300,
+      "impressionsGenerated": 84028,
+      "total": 70324
+    },
+    {
+      "date": "2022-07",
+      "acquisitionCampaigns": 65159,
+      "abTestingCost": 49610,
+      "abTestingNumber": 1,
+      "paidFollowersGained": 36005,
+      "impressionsGenerated": 22352,
+      "total": 22457
+    },
+    {
+      "date": "2022-08",
+      "acquisitionCampaigns": 56608,
+      "abTestingCost": 71749,
+      "abTestingNumber": 9,
+      "paidFollowersGained": 79529,
+      "impressionsGenerated": 9298,
+      "total": 6053
+    },
+    {
+      "date": "2022-09",
+      "acquisitionCampaigns": 8093,
+      "abTestingCost": 64171,
+      "abTestingNumber": 6,
+      "paidFollowersGained": 18953,
+      "impressionsGenerated": 15175,
+      "total": 59370
+    },
+    {
+      "date": "2022-10",
+      "acquisitionCampaigns": 17254,
+      "abTestingCost": 13946,
+      "abTestingNumber": 4,
+      "paidFollowersGained": 38679,
+      "impressionsGenerated": 11729,
+      "total": 61917
+    },
+    {
+      "date": "2022-11",
+      "acquisitionCampaigns": 58293,
+      "abTestingCost": 21131,
+      "abTestingNumber": 8,
+      "paidFollowersGained": 58937,
+      "impressionsGenerated": 90497,
+      "total": 58984
+    },
+    {
+      "date": "2022-12",
+      "acquisitionCampaigns": 81597,
+      "abTestingCost": 10645,
+      "abTestingNumber": 4,
+      "paidFollowersGained": 48400,
+      "impressionsGenerated": 52459,
+      "total": 19524
+    }
+  ],
+  "accounts-balance": [
+    {
+      "month": "2022-11",
+      "total": 20
+    },
+    {
+      "month": "2022-12",
+      "total": 100
+    },
+    {
+      "month": "2022-01",
+      "total": 20
+    },
+    {
+      "month": "2022-02",
+      "total": 200
+    },
+    {
+      "month": "2022-03",
+      "total": 5000
+    },
+    {
+      "month": "2022-04",
+      "total": 10000
+    },
+    {
+      "month": "2022-05",
+      "total": 12000
+    },
+    {
+      "month": "2022-06",
+      "total": 16000
+    },
+    {
+      "month": "2022-07",
+      "total": 16000
+    },
+    {
+      "month": "2022-08",
+      "total": 16000
+    },
+    {
+      "month": "2022-09",
+      "total": 13000
+    },
+    {
+      "month": "2022-10",
+      "total": 16000
+    },
+    {
+      "month": "2022-11",
+      "total": 16000
+    },
+    {
+      "month": "2022-12",
+      "total": 16000
+    }
+  ],
+  "account-balance": [
+    {
+      "date": "2021-11",
+      "previousMonthBalance": 96495,
+      "currentMonthBalance": 84358,
+      "grossRevenue": 73677,
+      "investments": 34908,
+      "currentRevenue": 38941,
+      "advanceToRecoup": 9897,
+      "total": 79523
+    },
+    {
+      "date": "2021-12",
+      "previousMonthBalance": 43433,
+      "currentMonthBalance": 75756,
+      "grossRevenue": 31711,
+      "investments": 86293,
+      "currentRevenue": 22025,
+      "advanceToRecoup": 38452,
+      "total": 59678
+    },
+    {
+      "date": "2022-01",
+      "previousMonthBalance": 38838,
+      "currentMonthBalance": 14370,
+      "grossRevenue": 47344,
+      "investments": 24179,
+      "currentRevenue": 62166,
+      "advanceToRecoup": 74641,
+      "total": 29576
+    },
+    {
+      "date": "2022-02",
+      "previousMonthBalance": 64668,
+      "currentMonthBalance": 85647,
+      "grossRevenue": 6857,
+      "investments": 36102,
+      "currentRevenue": 59693,
+      "advanceToRecoup": 33697,
+      "total": 41013
+    },
+    {
+      "date": "2022-03",
+      "previousMonthBalance": 83115,
+      "currentMonthBalance": 14635,
+      "grossRevenue": 27148,
+      "investments": 38128,
+      "currentRevenue": 3304,
+      "advanceToRecoup": 1547,
+      "total": 14830
+    },
+    {
+      "date": "2022-04",
+      "previousMonthBalance": 79853,
+      "currentMonthBalance": 33753,
+      "grossRevenue": 78594,
+      "investments": 51400,
+      "currentRevenue": 75797,
+      "advanceToRecoup": 10783,
+      "total": 62980
+    },
+    {
+      "date": "2022-05",
+      "previousMonthBalance": 93431,
+      "currentMonthBalance": 90815,
+      "grossRevenue": 41305,
+      "investments": 28603,
+      "currentRevenue": 47478,
+      "advanceToRecoup": 91769,
+      "total": 74946
+    },
+    {
+      "date": "2022-06",
+      "previousMonthBalance": 35926,
+      "currentMonthBalance": 13849,
+      "grossRevenue": 38807,
+      "investments": 44893,
+      "currentRevenue": 16749,
+      "advanceToRecoup": 93865,
+      "total": 69876
+    },
+    {
+      "date": "2022-07",
+      "previousMonthBalance": 4797,
+      "currentMonthBalance": 98481,
+      "grossRevenue": 35484,
+      "investments": 50813,
+      "currentRevenue": 44678,
+      "advanceToRecoup": 17885,
+      "total": 8361
+    },
+    {
+      "date": "2022-08",
+      "previousMonthBalance": 54439,
+      "currentMonthBalance": 43816,
+      "grossRevenue": 74680,
+      "investments": 78739,
+      "currentRevenue": 29934,
+      "advanceToRecoup": 67781,
+      "total": 12598
+    },
+    {
+      "date": "2022-09",
+      "previousMonthBalance": 53904,
+      "currentMonthBalance": 17374,
+      "grossRevenue": 1067,
+      "investments": 71920,
+      "currentRevenue": 33989,
+      "advanceToRecoup": 94890,
+      "total": 92450
+    },
+    {
+      "date": "2022-10",
+      "previousMonthBalance": 49802,
+      "currentMonthBalance": 6201,
+      "grossRevenue": 84873,
+      "investments": 92373,
+      "currentRevenue": 93655,
+      "advanceToRecoup": 18623,
+      "total": 49628
+    },
+    {
+      "date": "2022-11",
+      "previousMonthBalance": 52525,
+      "currentMonthBalance": 22115,
+      "grossRevenue": 37234,
+      "investments": 40467,
+      "currentRevenue": 2605,
+      "advanceToRecoup": 21274,
+      "total": 70100
+    },
+    {
+      "date": "2022-12",
+      "previousMonthBalance": 7528,
+      "currentMonthBalance": 92971,
+      "grossRevenue": 74629,
+      "investments": 80874,
+      "currentRevenue": 38421,
+      "advanceToRecoup": 55291,
+      "total": 28016
+    }
+  ],
+  "gross-revenues": [
+    {
+      "month": "2021-11",
+      "total": 2000,
+      "paid": 5000,
+      "organic": 1500
+    },
+    {
+      "month": "2021-12",
+      "total": 200,
+      "paid": 50,
+      "organic": 150
+    },
+    {
+      "month": "2022-01",
+      "total": 2000,
+      "paid": 5000,
+      "organic": 1500
+    },
+    {
+      "month": "2022-02",
+      "total": 200,
+      "paid": 50,
+      "organic": 150
+    },
+    {
+      "month": "2022-03",
+      "total": 5000,
+      "paid": 500,
+      "organic": 4500
+    },
+    {
+      "month": "2022-04",
+      "total": 10000,
+      "paid": 1000,
+      "organic": 9900
+    },
+    {
+      "month": "2022-05",
+      "total": 12000,
+      "paid": 2000,
+      "organic": 10000
+    },
+
+    {
+      "month": "2022-06",
+      "total": 16000,
+      "paid": 4000,
+      "organic": 12000
+    },
+    {
+      "month": "2022-07",
+      "total": 16500,
+      "paid": 6000,
+      "organic": 10500
+    },
+    {
+      "month": "2022-08",
+      "total": 23000,
+      "paid": 9000,
+      "organic": 14000
+    },
+    {
+      "month": "2022-09",
+      "total": 8000,
+      "paid": 2000,
+      "organic": 6000
+    },
+    {
+      "month": "2022-10",
+      "total": 18000,
+      "paid": 5000,
+      "organic": 15000
+    },
+    {
+      "month": "2022-11",
+      "total": 18000,
+      "paid": 11000,
+      "organic": 7000
+    },
+    {
+      "month": "2022-12",
+      "total": 16000,
       "paid": 4000,
       "organic": 12000
     }
