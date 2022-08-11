@@ -176,122 +176,122 @@
     {
       "month": "2021-01",
       "total": 20,
-      "paid": 5,
-      "organic": 15
+      "firstEntry": 5,
+      "secondEntry": 15
     },
     {
       "month": "2021-02",
       "total": 200,
-      "paid": 50,
-      "organic": 150
+      "firstEntry": 50,
+      "secondEntry": 150
     },
     {
       "month": "2021-03",
       "total": 5000,
-      "paid": 500,
-      "organic": 4500
+      "firstEntry": 500,
+      "secondEntry": 4500
     },
     {
       "month": "2021-04",
       "total": 10000,
-      "paid": 1000,
-      "organic": 9900
+      "firstEntry": 1000,
+      "secondEntry": 9900
     },
     {
       "month": "2021-05",
       "total": 12000,
-      "paid": 2000,
-      "organic": 10000
+      "firstEntry": 2000,
+      "secondEntry": 10000
     },
     {
       "month": "2021-06",
       "total": 16000,
-      "paid": 4000,
-      "organic": 12000
+      "firstEntry": 4000,
+      "secondEntry": 12000
     },
     {
       "month": "2021-07",
       "total": 2000,
-      "paid": 50000,
-      "organic": 15
+      "firstEntry": 50000,
+      "secondEntry": 15
     },
     {
       "month": "2021-08",
       "total": 200,
-      "paid": 50,
-      "organic": 150
+      "firstEntry": 50,
+      "secondEntry": 150
     },
     {
       "month": "2021-09",
       "total": 5000,
-      "paid": 500,
-      "organic": 4500
+      "firstEntry": 500,
+      "secondEntry": 4500
     },
     {
       "month": "2021-10",
       "total": 10000,
-      "paid": 1000,
-      "organic": 9900
+      "firstEntry": 1000,
+      "secondEntry": 9900
     },
     {
       "month": "2021-11",
       "total": 12000,
-      "paid": 2000,
-      "organic": 10000
+      "firstEntry": 2000,
+      "secondEntry": 10000
     },
     {
       "month": "2021-12",
       "total": 16000,
-      "paid": 4000,
-      "organic": 12000
+      "firstEntry": 4000,
+      "secondEntry": 12000
     },
     {
       "month": "2022-01",
       "total": 20,
-      "paid": 5,
-      "organic": 15
+      "firstEntry": 5,
+      "secondEntry": 15
     },
     {
       "month": "2022-02",
       "total": 200,
-      "paid": 50,
-      "organic": 150
+      "firstEntry": 50,
+      "secondEntry": 150
     },
     {
       "month": "2022-03",
       "total": 5000,
-      "paid": 500,
-      "organic": 4500
+      "firstEntry": 500,
+      "secondEntry": 4500
     },
     {
       "month": "2022-04",
       "total": 10000,
-      "paid": 1000,
-      "organic": 9900
+      "firstEntry": 1000,
+      "secondEntry": 9900
     },
     {
       "month": "2022-05",
       "total": 12000,
-      "paid": 2000,
-      "organic": 10000
+      "firstEntry": 2000,
+      "secondEntry": 10000
     },
     {
       "month": "2022-06",
       "total": 18000,
-      "paid": 4000,
-      "organic": 12000
+      "firstEntry": 4000,
+      "secondEntry": 12000
     },
     {
       "month": "2022-07",
       "total": 18000,
-      "paid": 4000,
-      "organic": 12000
+      "firstEntry": 4000,
+      "secondEntry": 12000
     },
     {
       "month": "2022-08",
       "total": 18000,
-      "paid": 4000,
-      "organic": 12000
+      "firstEntry": 4000,
+      "secondEntry": 12000
     }
   ],
   "views": [
@@ -1374,87 +1374,87 @@
     {
       "month": "2021-11",
       "total": 2000,
-      "paid": 5000,
-      "organic": 1500
+      "firstEntry": 5000,
+      "secondEntry": 1500
     },
     {
       "month": "2021-12",
       "total": 200,
-      "paid": 50,
-      "organic": 150
+      "firstEntry": 50,
+      "secondEntry": 150
     },
     {
       "month": "2022-01",
       "total": 2000,
-      "paid": 5000,
-      "organic": 1500
+      "firstEntry": 5000,
+      "secondEntry": 1500
     },
     {
       "month": "2022-02",
       "total": 200,
-      "paid": 50,
-      "organic": 150
+      "firstEntry": 50,
+      "secondEntry": 150
     },
     {
       "month": "2022-03",
       "total": 5000,
-      "paid": 500,
-      "organic": 4500
+      "firstEntry": 500,
+      "secondEntry": 4500
     },
     {
       "month": "2022-04",
       "total": 10000,
-      "paid": 1000,
-      "organic": 9900
+      "firstEntry": 1000,
+      "secondEntry": 9900
     },
     {
       "month": "2022-05",
       "total": 12000,
-      "paid": 2000,
-      "organic": 10000
+      "firstEntry": 2000,
+      "secondEntry": 10000
     },
 
     {
       "month": "2022-06",
       "total": 16000,
-      "paid": 4000,
-      "organic": 12000
+      "firstEntry": 4000,
+      "secondEntry": 12000
     },
     {
       "month": "2022-07",
       "total": 16500,
-      "paid": 6000,
-      "organic": 10500
+      "firstEntry": 6000,
+      "secondEntry": 10500
     },
     {
       "month": "2022-08",
       "total": 23000,
-      "paid": 9000,
-      "organic": 14000
+      "firstEntry": 9000,
+      "secondEntry": 14000
     },
     {
       "month": "2022-09",
       "total": 8000,
-      "paid": 2000,
-      "organic": 6000
+      "firstEntry": 2000,
+      "secondEntry": 6000
     },
     {
       "month": "2022-10",
       "total": 18000,
-      "paid": 5000,
-      "organic": 15000
+      "firstEntry": 5000,
+      "secondEntry": 15000
     },
     {
       "month": "2022-11",
       "total": 18000,
-      "paid": 11000,
-      "organic": 7000
+      "firstEntry": 11000,
+      "secondEntry": 7000
     },
     {
       "month": "2022-12",
       "total": 16000,
-      "paid": 4000,
-      "organic": 12000
+      "firstEntry": 4000,
+      "secondEntry": 12000
     }
   ]
 }
