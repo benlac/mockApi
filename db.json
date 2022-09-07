@@ -1229,59 +1229,59 @@
   "accounts-balance": [
     {
       "month": "2022-11",
-      "total": 20
+      "total": -20
     },
     {
       "month": "2022-12",
-      "total": 100
+      "total": -100
     },
     {
       "month": "2022-01",
-      "total": 20
+      "total": -20
     },
     {
       "month": "2022-02",
-      "total": 200
+      "total": -200
     },
     {
       "month": "2022-03",
-      "total": 5000
+      "total": -5000
     },
     {
       "month": "2022-04",
-      "total": 10000
+      "total": -10000
     },
     {
       "month": "2022-05",
-      "total": 12000
+      "total": -12000
     },
     {
       "month": "2022-06",
-      "total": 16000
+      "total": -16000
     },
     {
       "month": "2022-07",
-      "total": 16000
+      "total": -16000
     },
     {
       "month": "2022-08",
-      "total": 16000
+      "total": -16000
     },
     {
       "month": "2022-09",
-      "total": 13000
+      "total": -13000
     },
     {
       "month": "2022-10",
-      "total": 16000
+      "total": -16000
     },
     {
       "month": "2022-11",
-      "total": 16000
+      "total": -16000
     },
     {
       "month": "2022-12",
-      "total": 16000
+      "total": -16000
     }
   ],
   "account-balance": [
