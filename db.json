@@ -1512,5 +1512,97 @@
       "firstEntry": 4000,
       "secondEntry": 12000
     }
+  ],
+  "smash-history": [
+    {
+      "id": 0,
+      "name": "Itaque similique eos non enim dolor.",
+      "published": "2021-02-21",
+      "thumbnail": "https://loremflickr.com/640/480/city?77848",
+      "viewNumber": 27597,
+      "revenue": 87188,
+      "currentView": 639392
+    },
+    {
+      "id": 1,
+      "name": "Dignissimos qui fuga tempore saepe labore.",
+      "published": "2021-02-16",
+      "thumbnail": "https://loremflickr.com/640/480/city?54694",
+      "viewNumber": 64042,
+      "revenue": 72356,
+      "currentView": 639392
+    },
+    {
+      "id": 2,
+      "name": "Voluptatem corporis voluptatum quibusdam et voluptatem.",
+      "published": "2021-02-24",
+      "thumbnail": "https://loremflickr.com/640/480/city?76191",
+      "viewNumber": 42771,
+      "revenue": 62017,
+      "currentView": 639392
+    },
+    {
+      "id": 3,
+      "name": "Provident a tempora non et quae.",
+      "published": "2021-02-12",
+      "thumbnail": "https://loremflickr.com/640/480/city?23104",
+      "viewNumber": 97692,
+      "revenue": 12862,
+      "currentView": 639392
+    },
+    {
+      "id": 4,
+      "name": "Vero error consequatur incidunt odit repellat.",
+      "published": "2021-02-20",
+      "thumbnail": "https://loremflickr.com/640/480/city?26838",
+      "viewNumber": 64053,
+      "revenue": 72961,
+      "currentView": 639392
+    },
+    {
+      "id": 5,
+      "name": "Nihil nisi voluptate excepturi culpa error.",
+      "published": "2022-01-10",
+      "thumbnail": "https://loremflickr.com/640/480/city?68323",
+      "viewNumber": 46477,
+      "revenue": 94168,
+      "currentView": 639392
+    },
+    {
+      "id": 6,
+      "name": "Beatae optio voluptatem repellat fuga cupiditate.",
+      "published": "2022-01-2",
+      "thumbnail": "https://loremflickr.com/640/480/city?40602",
+      "viewNumber": 94331,
+      "revenue": 64563,
+      "currentView": 639392
+    },
+    {
+      "id": 7,
+      "name": "Dignissimos modi perspiciatis voluptate illum sed.",
+      "published": "2022-01-1",
+      "thumbnail": "https://loremflickr.com/640/480/city?63407",
+      "viewNumber": 35117,
+      "revenue": 1061,
+      "currentView": 639392
+    },
+    {
+      "id": 8,
+      "name": "Et aspernatur hic et hic sit.",
+      "published": "2022-01-7",
+      "thumbnail": "https://loremflickr.com/640/480/city?68268",
+      "viewNumber": 50089,
+      "revenue": 71107,
+      "currentView": 639392
+    },
+    {
+      "id": 9,
+      "name": "Debitis voluptas totam excepturi quae dolor.",
+      "published": "2022-01-29",
+      "thumbnail": "https://loremflickr.com/640/480/city?58102",
+      "viewNumber": 24505,
+      "revenue": 70990,
+      "currentView": 639392
+    }
   ]
 }
