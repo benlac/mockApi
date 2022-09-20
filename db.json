@@ -1604,5 +1604,37 @@
       "revenue": 70990,
       "currentView": 639392
     }
+  ],
+  "payments-history": [
+    {
+      "id": 1,
+      "platform": "facebook",
+      "amount": 80834,
+      "date": "2021-09-13"
+    },
+    {
+      "id": 2,
+      "platform": "snapchat",
+      "amount": 6000,
+      "date": "2021-08-12"
+    },
+    {
+      "id": 3,
+      "platform": "facebook",
+      "amount": 100453,
+      "date": "2021-07-01"
+    },
+    {
+      "id": 4,
+      "platform": "facebook",
+      "amount": 60154,
+      "date": "2021-06-19"
+    },
+    {
+      "id": 5,
+      "platform": "snapchat",
+      "amount": 77013,
+      "date": "2021-05-24"
+    }
   ]
 }
