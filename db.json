@@ -1571,7 +1571,7 @@
     {
       "id": 6,
       "name": "Beatae optio voluptatem repellat fuga cupiditate.",
-      "published": "2022-01-2",
+      "published": "2022-01-02",
       "thumbnail": "https://loremflickr.com/640/480/city?40602",
       "viewNumber": 94331,
       "revenue": 64563,
@@ -1580,7 +1580,7 @@
     {
       "id": 7,
       "name": "Dignissimos modi perspiciatis voluptate illum sed.",
-      "published": "2022-01-1",
+      "published": "2022-01-01",
       "thumbnail": "https://loremflickr.com/640/480/city?63407",
       "viewNumber": 35117,
       "revenue": 1061,
@@ -1589,7 +1589,7 @@
     {
       "id": 8,
       "name": "Et aspernatur hic et hic sit.",
-      "published": "2022-01-7",
+      "published": "2022-01-07",
       "thumbnail": "https://loremflickr.com/640/480/city?68268",
       "viewNumber": 50089,
       "revenue": 71107,
@@ -1616,7 +1616,7 @@
       "id": 2,
       "platform": "snapchat",
       "amount": 6000,
-      "date": "2021-08-12"
+      "date": "2021-08-2"
     },
     {
       "id": 3,
@@ -1628,7 +1628,7 @@
       "id": 4,
       "platform": "facebook",
       "amount": 60154,
-      "date": "2021-06-19"
+      "date": "2021-06-3"
     },
     {
       "id": 5,
