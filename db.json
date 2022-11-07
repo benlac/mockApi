@@ -1,33 +1,11 @@
 {
-  "creators": {
+  "contract-clusters": {
     "data": [
       {
-        "creatorId": 21,
-        "creatorName": "Mr Beast",
-        "creatorType": "creator",
-        "creatorThumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9NaXMe8tiBBVF3N608TFvJSihHF2Ez8yPIqkTl1g=s88-c-k-c0x00ffffff-no-rj",
-        "channelCount": 32
+        "contractClusterId": "08dcc637-0502-49ba-872d-35db93ddf9ef"
       },
       {
-        "creatorId": 22,
-        "creatorName": "Nas Daily",
-        "creatorType": "creator",
-        "creatorThumbnail": "https://yt3.ggpht.com/UA3-foGLMxAW0zCZ78d4jGSOO0Lm8Qh2BY8gXlpcTTOu_5QzCoU5Yww9Hutd9RxI3Xw6MBO24NE=s88-c-k-c0x00ffffff-no-rj",
-        "channelCount": 32
-      },
-      {
-        "creatorId": 23,
-        "creatorName": "Karina Garcia",
-        "creatorType": "creator",
-        "creatorThumbnail": "https://yt3.ggpht.com/ytc/AMLnZu95vFaH3cjYOvnaXa1S-38iX2PX_h_FvgoaK6aLcA=s88-c-k-c0x00ffffff-no-rj",
-        "channelCount": 32
-      },
-      {
-        "creatorId": 24,
-        "creatorName": "Brad Mondo",
-        "creatorType": "creator",
-        "creatorThumbnail": "https://yt3.ggpht.com/ytc/AMLnZu843lT1OObL-erGH8LJOTblxbq6lT4drS7Evh-9Tds=s88-c-k-c0x00ffffff-no-rj",
-        "channelCount": 32
+        "contractClusterId": "06b13c72-3938-4e0d-bad3-9d18d1eceee9"
       }
     ]
   },
